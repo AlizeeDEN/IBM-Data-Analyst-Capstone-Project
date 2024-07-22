@@ -21,7 +21,7 @@ In this module, I began working with the cleaned dataset from the previous modul
 In module 4 of the Capstone, I created visualizations using the developer survey data. These visualizations highlighted the distribution of data, relationships between data, the composition of data, and comparisons within the data.
 
 ### **Part 5 : Building A Dashboard**
-In this module, I created a dashboard using IBM Cognos Analytics or Google Looker Studio. This platform allowed me to create various charts and assemble a dashboard that is appealing and easy to understand. My dashboard contained my data analysis, which was intuitive and allowed for the drill-down of data.
+In this module, I created a dashboard using IBM Cognos Analytics. This platform allowed me to create various charts and assemble a dashboard that is appealing and easy to understand. My dashboard contained my data analysis, which was intuitive and allowed for the drill-down of data.
 
 ### **Part 6 : Present My Findings**
 After analyzing the data in the previous modules, it was time to demonstrate my storytelling skills. In this module, I created a compelling story that clarified my analysis in an easy-to-understand presentation.
